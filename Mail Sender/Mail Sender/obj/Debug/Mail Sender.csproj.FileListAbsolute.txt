@@ -1,0 +1,9 @@
+C:\Users\Arturo\Documents\MIS Homeworks\Mail Sender\Mail Sender\bin\Debug\Mail Sender.exe.config
+C:\Users\Arturo\Documents\MIS Homeworks\Mail Sender\Mail Sender\bin\Debug\Mail Sender.exe
+C:\Users\Arturo\Documents\MIS Homeworks\Mail Sender\Mail Sender\bin\Debug\Mail Sender.pdb
+C:\Users\Arturo\Documents\MIS Homeworks\Mail Sender\Mail Sender\obj\Debug\Mail Sender.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Documents\MIS Homeworks\Mail Sender\Mail Sender\obj\Debug\Mail_Sender.Form1.resources
+C:\Users\Arturo\Documents\MIS Homeworks\Mail Sender\Mail Sender\obj\Debug\Mail_Sender.Properties.Resources.resources
+C:\Users\Arturo\Documents\MIS Homeworks\Mail Sender\Mail Sender\obj\Debug\Mail Sender.csproj.GenerateResource.Cache
+C:\Users\Arturo\Documents\MIS Homeworks\Mail Sender\Mail Sender\obj\Debug\Mail Sender.exe
+C:\Users\Arturo\Documents\MIS Homeworks\Mail Sender\Mail Sender\obj\Debug\Mail Sender.pdb
